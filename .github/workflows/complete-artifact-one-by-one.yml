@@ -26,6 +26,7 @@ on:
         description: 'Userspace'
         options:
         - jammy
+        - noble
         - mantic
         - bookworm
         - trixie
