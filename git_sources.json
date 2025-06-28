@@ -17,12 +17,12 @@
   {
     "source": "https://github.com/armbian/build",    
     "branch": "main",     
-    "sha1": "989f25533a055a85420ba71d074b470711383964"
+    "sha1": "a4010867fad5c5d0b08f3a20e5c8cb259edac8ef"
   },
   {
     "source": "https://github.com/armbian/linux-rockchip.git",
     "branch": "rk-6.1-rkr5.1",
-    "sha1": "5271a2ffc80451672f8b8f150a85fe527e5e227b"
+    "sha1": "7ee713c95b2febdfa78d69dc81f524648c1a0e5e"
   },
   {
     "source": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git",
@@ -32,6 +32,6 @@
   {
     "source": "https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git",
     "branch": "linux-6.12.y",
-    "sha1": "e03ced99c437f4a7992b8fa3d97d598f55453fd0"
+    "sha1": "783cd2c3dca8b6c434e955b84c20c8940588dc68"
   }
 ]
