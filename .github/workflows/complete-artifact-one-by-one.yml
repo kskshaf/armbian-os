@@ -17,9 +17,10 @@ on:
         description: 'Kernel branch'
         options:
         - legacy
+        - vendor
         - current
         - edge
-        default: 'current'
+        default: 'legacy'
 
       armbian_release:
         type: choice
@@ -44,7 +45,7 @@ on:
         - cinnamon
         - i3-wm
         - kde-plasma
-        default: 'minimal'
+        default: 'server'
 
       armbian_version:
         description: 'Version'
